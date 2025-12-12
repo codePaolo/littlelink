@@ -165,7 +165,7 @@ button:hover,
 /* Figma */
 .button.button-figma {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #6c6464;
 }
 .button.button-figma:hover,
 .button.button-figma:focus {
@@ -175,7 +175,7 @@ button:hover,
 /* Github */
 .button.button-github {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #6c6464;
 }
 .button.button-github:hover,
 .button.button-github:focus {
@@ -225,7 +225,7 @@ button:hover,
 /* Kit */
 .button.button-kit {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #6c6464;
 }
 .button.button-kit:hover,
 .button.button-kit:focus {
@@ -255,7 +255,7 @@ button:hover,
 /* Medium */
 .button.button-medium {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #6c6464;
 }
 .button.button-medium:hover,
 .button.button-medium:focus {
@@ -264,9 +264,9 @@ button:hover,
 
 /* Notion */
 .button.button-notion {
-  color: #000000;
+  color: #6c6464;
   border-style: solid;
-  border-color: #000000;
+  border-color: #6c6464;
   border-width: 2px;
   background-color: #ffffff;
 }
@@ -297,7 +297,7 @@ button:hover,
 
 /* Pinterest */
 .button.button-pinterest {
-  color: #000000;
+  color: #6c6464;
   background-color: #ffe2eb;
 }
 .button.button-pinterest:hover,
@@ -320,7 +320,7 @@ button:hover,
 
 /* Reddit */
 .button.button-reddit {
-  color: #000000;
+  color: #6c6464;
   background-color: #d7dfe2;
 }
 .button.button-reddit:hover,
@@ -350,7 +350,7 @@ button:hover,
 
 /* Snapchat */
 .button.button-snapchat {
-  color: #000000;
+  color: #6c6464;
   background-color: #fffc00;
 }
 .button.button-snapchat:hover,
@@ -371,7 +371,7 @@ button:hover,
 /* Spotify */
 .button.button-spotify {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #6c6464;
 }
 .button.button-spotify:hover,
 .button.button-spotify:focus {
@@ -401,7 +401,7 @@ button:hover,
 /* TikTok */
 .button.button-tiktok {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #6c6464;
 }
 .button.button-tiktok:hover,
 .button.button-tiktok:focus {
@@ -471,7 +471,7 @@ button:hover,
 /* Website */
 .button.button-web {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #6c6464;
 }
 .button.button-web:hover,
 .button.button-web:focus {
@@ -511,7 +511,7 @@ button:hover,
 /* YouTube */
 .button.button-yt {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #6c6464;
 }
 .button.button-yt:hover,
 .button.button-yt:focus {
